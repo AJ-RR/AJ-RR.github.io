@@ -96,7 +96,7 @@
 
 ---
 
-### Acheivements
+### Achievements
 * Presented a paper at IEEE Sensors 2019, Montreal, Canada.
 * Demonstrated the Tactile Audio Device at the Live Demonstration Session, IEEE Sensors 2019, Montreal, Canada.
 * 55th position in the Bangalore Triathlon organized by Fit I Am 2018.
@@ -113,4 +113,4 @@ I co-organized the Assistive Technology Exhibition at IIIT-Bangalore in 2018. Th
 I handled registrations and logistics of the IEEE Conference on High Performance Computing 2018 held at Bangalore, India. [Certificate](https://drive.google.com/drive/folders/1Y8KohqjtrInafAVmXjf8feEyFQbmrOcZ)
 
 #### **Volunteer at Vision Empower**
-Vision Empower (VE) is a Not-for-Profit enterprise which empowers children with visual impairment through inclusive education. [VE](http://visionempowertrust.in/) 
+Vision Empower (VE) is a Not-for-Profit enterprise which empowers children with visual impairment through inclusive education. [VE](http://visionempowertrust.in/)
