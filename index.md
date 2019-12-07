@@ -9,7 +9,7 @@
 * Design of an analog Laser communication system for audio communication.
 * Design of a Laser Vibrometer system capable of detecting low frequency vibrations.
 
-[Report](https://drive.google.com/drive/folders/1Y8KohqjtrInafAVmXjf8feEyFQbmrOcZ)
+[Report](https://drive.google.com/open?id=1P0tAN9FZGgOxY66U5IueUBiGkrCk7meY)
 
 ---
 
@@ -36,7 +36,7 @@
 * These methods were applied to extract relevant features, which were then used to train the classifier.
 * The second stage involved using a Convolution Neural Network to achieve better performance.  
 
-[Report](https://drive.google.com/drive/folders/1Y8KohqjtrInafAVmXjf8feEyFQbmrOcZ)
+[Report](https://drive.google.com/open?id=1RP0QzzqunKkTL_V8d0P2MiiwijdCGXOV)
 
 #### **FM anti-jamming transmitter-receiver in MATLAB**
 *Principles of Communication Systems Course -*[ Prof. Jyotsna Bapat](https://www.iiitb.ac.in/faculty_page.php?name=jyotsnabapat)
