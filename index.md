@@ -1,7 +1,7 @@
 
 ---
 
-<span style = "color":"green">Experience</span>
+## Experience
 
 ### Summer Internship 2019 - Indian Institute of Science (IISc)
 #### Laser Communication and Vibrometer Systems
