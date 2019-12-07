@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Tactile Audio Gallery](/TAG)
+[Tactile Audio Gallery]
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 * Design and development of a Tactile Educational Device for students with visual impairment.
 * This novel device provides an effective and efficient method for the self-study of Tactile Diagrams.
@@ -15,7 +15,7 @@
 
 ---
 
-[Malaria Parasite Detection](/MalariaParasiteDetection)
+[Malaria Parasite Detection]
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 * Detection of malaria infected cells in thin-blood smear images.
 * Traditional image processing techniques which were applied in the first stage of the project include -
@@ -26,25 +26,3 @@
 * The second stage involved using a Convolution Neural Network to achieve better performance.  
 
 ---
-
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
-<!-- Remove above link if you don't want to attibute -->
