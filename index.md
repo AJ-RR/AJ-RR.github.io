@@ -1,8 +1,8 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1
+### Projects
 
 [Tactile Audio Gallery](/TAG)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
@@ -12,8 +12,8 @@
 * An identification system was designed using RFID, to identify diagrams placed on the panel. This identification was used to initialise information relevant to the diagram.
 * The system can thus be used to study multiple diagrams of the users choice. This design was aimed to provide a complete reading solution for graphics based information.
 * A manuscript of the design, and a live demonstration of the device were presented at IEEE Sensors 2019, Montreal, Canada.
----
-[Malaria Parasite Detection](/Malaria Parasite Detection)
+<!-- --- -->
+[Malaria Parasite Detection](/MalariaParasiteDetection)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 * Detection of malaria infected cells in thin-blood smear images.
 * Traditional image processing techniques which were applied in the first stage of the project include -
@@ -22,7 +22,7 @@
   3. Bag of Visual Words model
 * These methods were applied to extract relevant features, which were then used to train the classifier.
 * The second stage involved using a Convolution Neural Network to achieve better performance.  
----
+<!-- --- -->
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
