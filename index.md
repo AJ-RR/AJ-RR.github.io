@@ -12,6 +12,7 @@
 * An identification system was designed using RFID, to identify diagrams placed on the panel. This identification was used to initialise information relevant to the diagram.
 * The system can thus be used to study multiple diagrams of the users choice. This design was aimed to provide a complete reading solution for graphics based information.
 * A manuscript of the design, and a live demonstration of the device were presented at IEEE Sensors 2019, Montreal, Canada.
+
 ---
 
 [Malaria Parasite Detection](/MalariaParasiteDetection)
@@ -23,6 +24,7 @@
   3. Bag of Visual Words model
 * These methods were applied to extract relevant features, which were then used to train the classifier.
 * The second stage involved using a Convolution Neural Network to achieve better performance.  
+
 ---
 
 [Project 3 Title](http://example.com/)
