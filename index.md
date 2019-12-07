@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Category Name 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Tactile Audio Gallery](/TAG)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+* Design and development of a Tactile Educational Device for students with visual impairment. This novel device provides an effective and efficient method for the self-study of Tactile Diagrams. The device consists of a touch sensitive panel and an audio guidance system which provides audio information based on user touch on the Tactile Diagram. The panel was designed as an array of capacitive sensors, integrated with the audio delivery system to provide audio feedback on Tactile response. An identification system was designed using RFID, to identify diagrams placed on the panel. This identification was used to initialise information relevant to the diagram. The system can thus be used to study multiple diagrams of the users choice. This design was aimed to provide a complete reading solution for graphics based information. A manuscript of the design and a live demonstration were presented at IEEE Sensors 2019, Montreal, Canada. 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title](Malaria Parasite Detection)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 [Project 3 Title](http://example.com/)
