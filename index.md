@@ -12,6 +12,8 @@
 
 [Report](https://drive.google.com/drive/folders/1Y8KohqjtrInafAVmXjf8feEyFQbmrOcZ)
 
+---
+
 ### Projects
 
 #### **Tactile Audio Gallery**
@@ -66,6 +68,8 @@
 * Encoding of a program into Intel Hex (ihex) format and transmission via UART Serial Communication.
 * Decoding of the program, followed by execution at the receiver.
 
+[Code/Report](https://github.com/AJ-RR/Remote-Loading-and-Execution-of-a-Program)
+
 #### **Design of a Direct Mapped Cache in Verilog**
 [*Computer Architecture Course - Prof. Nanditha Rao*](https://www.iiitb.ac.in/faculty_page.php?name=drnanditharao)
 * Design of a Direct Mapped Cache in Verilog with LRU scheme for replacement.
@@ -83,3 +87,30 @@
 #### **Airhockey game in python**
 [*Programming Course - Prof. Sujit Kumar Chakrabarti*](https://www.iiitb.ac.in/faculty_page.php?name=sujitkumarchakrabarti)
 * Developed a simple 2 player Air Hockey game in python, using the pygame library.
+
+---
+
+### Conference Publications
+1. Ajay Ramesh, Nithin Raj, Madhav Rao, T K Srikanth, "Design of a Tactile Audio Gallery for Visually Impaired Students". Presented at IEEE Sensors 2019, Montreal, Canada. [IEEE Sensors 2019](https://epapers.org/sensors2019/ESR/paper_details.php?PHPSESSID=uhdlmpppqgaoupeg20i52ciil2&paper_id=1046)
+2. Nithin Raj, Ajay Ramesh, Madhav Rao, T K Srikanth, "Live Demonsration : Design of a Tactile Audio Gallery for Visually Impaired Students". Demonstrated at IEEE Sensors 2019, Montreal, Canada. [IEEE Sensors 2019](https://epapers.org/sensors2019/ESR/paper_details.php?PHPSESSID=uhdlmpppqgaoupeg20i52ciil2&paper_id=1859)
+
+---
+
+### Acheivements
+* Presented a paper at IEEE Sensors 2019, Montreal, Canada.
+* Demonstrated the Tactile Audio Device at the Live Demonstration Session, IEEE Sensors 2019, Montreal, Canada.
+* 55th position in the Bangalore Triathlon organized by Fit I Am 2018.
+* School captain elect of MPV, Mysore. A school of approximately 1,200 students.
+* Winner of Rotex debate 2014.
+
+---
+
+### Volunteer Work
+#### **Co-Organizer | Assistive Technology Expo 2018 - IIIT-B**
+I co-organized the Assistive Technology Exhibition at IIIT-Bangalore in 2018. The exhibition was part of the I-STEM hackathon event. The hackathon was where blind and visually impaired developers, industry professionals and Computer Science students came together to work on exciting and challenging problems. Ten assistive technology companies from across the country were invited to demonstrate novel products. [Inclusive Stem](http://inclusivestem.org/)
+
+#### **Volunteer | Registration and Logistics of IEEE HiPC Conference 2018**
+I handled registrations and logistics of the IEEE Conference on High Performance Computing 2018 held at Bangalore, India. [Certificate](https://drive.google.com/drive/folders/1Y8KohqjtrInafAVmXjf8feEyFQbmrOcZ)
+
+#### **Volunteer at Vision Empower**
+Vision Empower (VE) is a Not-for-Profit enterprise which empowers children with visual impairment through inclusive education. [VE](http://visionempowertrust.in/) 
