@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Tactile Audio Gallery]
+#### Tactile Audio Gallery
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 * Design and development of a Tactile Educational Device for students with visual impairment.
 * This novel device provides an effective and efficient method for the self-study of Tactile Diagrams.
@@ -15,7 +15,7 @@
 
 ---
 
-[Malaria Parasite Detection]
+#### Malaria Parasite Detection
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 * Detection of malaria infected cells in thin-blood smear images.
 * Traditional image processing techniques which were applied in the first stage of the project include -
