@@ -1,11 +1,10 @@
-## Portfolio
 
 ---
 
-### Experience
+## Experience
 
-#### Summer Internship 2019 - Indian Institute of Science (IISc)
-##### Laser Communication and Vibrometer Systems
+### Summer Internship 2019 - Indian Institute of Science (IISc)
+#### Laser Communication and Vibrometer Systems
 [Centre for Nanoscience and Engineering (CENSE) - Prof. M M Nayak](http://www.cense.iisc.ac.in/m-m-nayak)
 * Design of an analog Laser communication system for audio communication.
 * Design of a Laser Vibrometer system capable of detecting low frequency vibrations.
@@ -14,7 +13,7 @@
 
 ---
 
-### Projects
+## Projects
 
 #### **Tactile Audio Gallery**
 
@@ -90,13 +89,13 @@
 
 ---
 
-### Conference Publications
+## Conference Publications
 1. Ajay Ramesh, Nithin Raj, Madhav Rao, T K Srikanth, "Design of a Tactile Audio Gallery for Visually Impaired Students". Presented at IEEE Sensors 2019, Montreal, Canada. [IEEE Sensors 2019](https://epapers.org/sensors2019/ESR/paper_details.php?PHPSESSID=uhdlmpppqgaoupeg20i52ciil2&paper_id=1046)
 2. Nithin Raj, Ajay Ramesh, Madhav Rao, T K Srikanth, "Live Demonsration : Design of a Tactile Audio Gallery for Visually Impaired Students". Demonstrated at IEEE Sensors 2019, Montreal, Canada. [IEEE Sensors 2019](https://epapers.org/sensors2019/ESR/paper_details.php?PHPSESSID=uhdlmpppqgaoupeg20i52ciil2&paper_id=1859)
 
 ---
 
-### Achievements
+## Achievements
 * Presented a paper at IEEE Sensors 2019, Montreal, Canada.
 * Demonstrated the Tactile Audio Device at the Live Demonstration Session, IEEE Sensors 2019, Montreal, Canada.
 * 55th position in the Bangalore Triathlon organized by Fit I Am 2018.
@@ -105,7 +104,7 @@
 
 ---
 
-### Volunteer Work
+## Volunteer Work
 #### **Co-Organizer | Assistive Technology Expo 2018 - IIIT-B**
 I co-organized the Assistive Technology Exhibition at IIIT-Bangalore in 2018. The exhibition was part of the I-STEM hackathon event. The hackathon was where blind and visually impaired developers, industry professionals and Computer Science students came together to work on exciting and challenging problems. Ten assistive technology companies from across the country were invited to demonstrate novel products. [Inclusive Stem](http://inclusivestem.org/)
 
