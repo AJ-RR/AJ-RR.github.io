@@ -109,7 +109,7 @@
 I co-organized the Assistive Technology Exhibition at IIIT-Bangalore in 2018. The exhibition was part of the I-STEM hackathon event. The hackathon was where blind and visually impaired developers, industry professionals and Computer Science students came together to work on exciting and challenging problems. Ten assistive technology companies from across the country were invited to demonstrate novel products. [Inclusive Stem](http://inclusivestem.org/)
 
 #### **Volunteer | Registration and Logistics of IEEE HiPC Conference 2018**
-I handled registrations and logistics of the IEEE Conference on High Performance Computing 2018 held at Bangalore, India. [Certificate](https://drive.google.com/drive/folders/1Y8KohqjtrInafAVmXjf8feEyFQbmrOcZ)
+I handled registrations and logistics of the IEEE Conference on High Performance Computing 2018 held at Bangalore, India. [Certificate](https://drive.google.com/open?id=1XSmS6AznimBtiQo1dsppZWgoPVi9JntH)
 
 #### **Volunteer at Vision Empower**
 Vision Empower (VE) is a Not-for-Profit enterprise which empowers children with visual impairment through inclusive education. [VE](http://visionempowertrust.in/)
