@@ -1,6 +1,16 @@
-## Projects
+## Portfolio
 
 ---
+
+### Experience
+
+#### Summer Internship 2019 - Indian Institute of Science (IISc)
+##### Laser Communication and Vibrometer Systems
+[Centre for Nanoscience and Engineering (CENSE) - Prof. M M Nayak](http://www.cense.iisc.ac.in/m-m-nayak)
+* Design of an analog Laser communication system for audio communication.
+* Design of a Laser Vibrometer system capable of detecting low frequency vibrations.
+
+[Report](https://drive.google.com/drive/folders/1Y8KohqjtrInafAVmXjf8feEyFQbmrOcZ)
 
 ### Projects
 
