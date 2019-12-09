@@ -87,6 +87,7 @@
 *Programming Course -*[ Prof. Sujit Kumar Chakrabarti](https://www.iiitb.ac.in/faculty_page.php?name=sujitkumarchakrabarti)
 * Developed a simple 2 player Air Hockey game in python, using the pygame library.
 
+[Code](https://github.com/AJ-RR/Air_Hockey)
 ---
 
 ## Conference Publications
