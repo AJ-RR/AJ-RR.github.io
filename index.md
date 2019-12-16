@@ -94,9 +94,9 @@
 ---
 
 ## Coursework
-* Electrical engineering - Electronic Devices and Circuit Theory | Digital Design | Computer Architecture | Communication Systems | Digital Signal Processing | Computer Networks
-* Computer Science - Data Structures and Algorithms | Machine Learning | Programming (Python, C++, Java)
-* Theory - Linear Algebra | Probability Theory | Convex Optimization | Signals and Systems
+* Electrical engineering - Electronic Devices and Circuit Theory, Digital Design, Computer Architecture, Communication Systems, Digital Signal Processing, Computer Networks
+* Computer Science - Data Structures and Algorithms, Machine Learning, Programming (Python, C++, Java)
+* Theory - Linear Algebra, Probability Theory, Convex Optimization, Signals and Systems
 
 ---
 
