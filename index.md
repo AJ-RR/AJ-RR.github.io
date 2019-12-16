@@ -38,6 +38,13 @@
 
 [Report](https://drive.google.com/open?id=1RP0QzzqunKkTL_V8d0P2MiiwijdCGXOV)
 
+#### **Student Performance Prediction**
+*Machine Learning Course Hackathon -*[ Prof. G Srinivasaraghavan](https://www.iiitb.ac.in/faculty_page.php?name=gsrinivasaraghavan)
+* Prediction of a student's academic performance based on various social and academic factors.
+* Features such as alcohol consumption, study time, travel time etc were used to train the regression model.
+
+[Report](https://drive.google.com/open?id=1TwPSCk4dRZzqb5inD-BCpDgkxHCfQIlb)
+
 #### **FM anti-jamming transmitter-receiver in MATLAB**
 *Principles of Communication Systems Course -*[ Prof. Jyotsna Bapat](https://www.iiitb.ac.in/faculty_page.php?name=jyotsnabapat)
 * Analysis of the capture effect in FM receivers and potential jamming techniques.
