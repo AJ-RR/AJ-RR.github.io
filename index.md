@@ -106,7 +106,7 @@
 ---
 
 ## Coursework
-* Electronics engineering - Digital CMOS VLSI Design, Electronic Devices and Circuit Theory, Digital Design, Computer Architecture, Communication Systems, Digital Signal Processing, Computer Networks
+* Electronics and Electrical engineering - Digital CMOS VLSI Design, Electronic Devices and Circuit Theory, Digital Design, Computer Architecture, Communication Systems, Digital Signal Processing, Computer Networks
 * Computer Science - Data Structures and Algorithms, Programming (Python, C++, Java)
 * AI and Machine Learning - Machine Learning, Mathematics for Machine Learning, Visual Recognition, Automatic Speech Recognition, Artificial Intelligence
 * Theory - Linear Algebra, Probability Theory, Convex Optimization, Signals and Systems
