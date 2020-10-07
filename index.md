@@ -3,7 +3,7 @@
 
 ## Experience
 
-### Summer Research Internship - The University of Alabama, Tuscaloosa
+### Summer Research Internship 2020- The University of Alabama, Tuscaloosa
 #### Food Detection for a Wearable Device
 [Computer Lab of Ambient and Wearable Systems - Edward Sazonov](https://eng.ua.edu/eng-directory/dr-edward-sazonov/)
 * Training and evaluation of the YOLO object detection networks for the detection of Food, Beverage, Screen and Persons from a wearabledevice camera, and exploration of data preprocessingtechniques such as deblurring and low light image enhancement combined with extensive augmentation techniques to improve detection on real world data.
