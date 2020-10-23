@@ -110,6 +110,7 @@
 * Computer Science - Data Structures and Algorithms, Programming (Python, C++, Java)
 * AI and Machine Learning - Machine Learning, Mathematics for Machine Learning, Visual Recognition, Automatic Speech Recognition, Artificial Intelligence
 * Theory - Linear Algebra, Probability Theory, Convex Optimization, Signals and Systems
+* Humanities and Social Sciences - Technology Ethics and Artificial Intelligence, Digital Sociology, History of Ideas
 
 ---
 
