@@ -20,11 +20,19 @@
 
 ## Projects
 
+#### **Surgical Tool Characterization and Surgeon Skill Assessment from Neurosurgical Videos**
+
+[*Surgical and Assistive Robotics Lab IIIT-Bangalore*](https://www.iiitb.ac.in/sarl/sarl.html)
+
+* Training and evaluation of object detection networks for surgical tool detection, followed by bounding box matching and interpolation to improve frame-wise tool detection in videos. A surgical procedure is characterized by tool on-off time, usage time, and tool trajectory.
+* A Neurosurgical video dataset for the project was collected in collaboration with NIMHANS, Bengaluru.
+
+
 #### **Tactile Audio Gallery**
 
 [*Surgical and Assistive Robotics Lab IIIT-Bangalore*](https://www.iiitb.ac.in/sarl/sarl.html)
 * Design and development of a Tactile Educational Device for students with visual impairment.
-* This novel device provides an effective and efficient method for the self-study of Tactile Diagrams.
+* This novel device provides an efficient method for the self-study of Tactile Diagrams.
 * The device consists of a touch sensitive panel and an audio guidance system which provides audio information based on user touch on the Tactile Diagram. The panel was designed as an array of capacitive sensors, integrated with the audio delivery system to provide audio feedback on Tactile response.
 * An identification system was designed using RFID, to identify diagrams placed on the panel. This identification was used to initialise information relevant to the diagram.
 * The system can thus be used to study multiple diagrams of the users choice. This design was aimed to provide a complete reading solution for graphics based information.
