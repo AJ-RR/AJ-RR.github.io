@@ -6,7 +6,8 @@
 ### Summer Research Internship 2020- The University of Alabama, Tuscaloosa
 #### Food Detection for a Wearable Device
 [Computer Lab of Ambient and Wearable Systems - Edward Sazonov](https://eng.ua.edu/eng-directory/dr-edward-sazonov/)
-* Training and evaluation of the YOLO object detection networks for the detection of Food, Beverage, Screen and Persons from a wearabledevice camera, and exploration of data preprocessingtechniques such as deblurring and low light image enhancement combined with extensive augmentation techniques to improve detection on real world data.
+* Training and evaluation of the YOLO object detection networks to detect Food, Beverage, Screen, and Persons.
+* Explored data pre-processing techniques such as deblurring, low light image enhancement and extensive data augmentation to improve detection on wearable-camera data, and integrated a segmentation pipeline using graph-cut to segment the parts of food on the plate post object detection.
 
 ### Summer Internship 2019 - Indian Institute of Science (IISc)
 #### Laser Communication and Vibrometer Systems
@@ -49,7 +50,23 @@
 * These methods were applied to extract relevant features, which were then used to train the classifier.
 * The second stage involved using a Convolution Neural Network to achieve better performance.  
 
-[Report](https://drive.google.com/open?id=1RP0QzzqunKkTL_V8d0P2MiiwijdCGXOV)
+[Code/Report](https://github.com/AJ-RR/Malaria-Parasite-Detection)
+
+
+#### **FM anti-jamming transmitter-receiver in MATLAB**
+* Principles of Communication Systems Course -*[ Prof. Jyotsna Bapat](https://www.iiitb.ac.in/faculty_page.php?name=jyotsnabapat)
+* Analysis of the capture effect in FM receivers and potential jamming techniques.
+* Design of a FM transmitter and receiver with Frequency hopping scheme for jamming avoidance.
+* Analysis of the effect of Additive White Gaussian Noise (AWGN) introduced by the channel, followed by implementation of various noise reduction techniques.
+* Study and application of Wiener Filters for noise reduction.
+
+[Code/Report](https://github.com/AJ-RR/FM-Anti-jammer)
+
+#### **Dress Recognition and Detection**
+* Developed a dress detection system to detect the different kinds of dress that people wear. Initially approached as a two-stage problem: Detect a person in an image using a pre-trained person detector and classify their dress using a ResNet-50 network trained on a dress image dataset.
+* Training and evaluation of the YOLOv3 object detection network for detecting the dress worn by a person (T-Shirt, Jacket, Top, Shorts, and Skirt) and a comparison of recognition and detection approaches.
+
+[Code/Report](https://github.com/ronak66/Dress-Detection)
 
 #### **Student Performance Prediction**
 *Machine Learning Course Hackathon -*[ Prof. G Srinivasaraghavan](https://www.iiitb.ac.in/faculty_page.php?name=gsrinivasaraghavan)
@@ -57,15 +74,6 @@
 * Features such as alcohol consumption, study time, travel time etc were used to train the regression model.
 
 [Report](https://drive.google.com/open?id=1TwPSCk4dRZzqb5inD-BCpDgkxHCfQIlb)
-
-#### **FM anti-jamming transmitter-receiver in MATLAB**
-*Principles of Communication Systems Course -*[ Prof. Jyotsna Bapat](https://www.iiitb.ac.in/faculty_page.php?name=jyotsnabapat)
-* Analysis of the capture effect in FM receivers and potential jamming techniques.
-* Design of a FM transmitter and receiver with Frequency hopping scheme for jamming avoidance.
-* Analysis of the effect of Additive White Gaussian Noise (AWGN) introduced by the channel, followed by implementation of various noise reduction techniques.
-* Study and application of Wiener Filters for noise reduction.
-
-[Code/Report](https://github.com/AJ-RR/FM-Anti-jammer)
 
 #### **Physical Activity Classification Using Smartphone based Motion sensors**
 *Digital Signal Processing Course -*[ Prof. Dinesh Babu](https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi)
