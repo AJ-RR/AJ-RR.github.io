@@ -6,9 +6,10 @@
 ### Summer Research Internship 2020- The University of Alabama, Tuscaloosa
 #### Food Detection for a Wearable Device
 [Computer Lab of Ambient and Wearable Systems - Edward Sazonov](https://eng.ua.edu/eng-directory/dr-edward-sazonov/)
-* Training and evaluation of the YOLO object detection networks to detect Food, Beverage, Screen, and Persons.
-* Explored data pre-processing techniques such as deblurring, low light image enhancement and extensive data augmentation to improve detection on wearable-camera data, and integrated a segmentation pipeline using graph-cut to segment the parts of food on the plate post object detection.
-
+* Detection of  Food objects from egocentric wearable camera images using the YOLO object detection networks.
+* Achieved significant improvement in detection performance by creating an ensemble of networks which are merged at the NMS step. I also applied various data-preprocessing techniques including blur image rejection, low light image enhancement and extensive data augmentation to boost performance on the real-world dataset. 
+* Integrated a segmentation pipeline using graph-cut to segment the parts of food on a plate post object detection.
+* A technical paper of the project is under preparation. 
 ### Summer Internship 2019 - Indian Institute of Science (IISc)
 #### Laser Communication and Vibrometer Systems
 [Centre for Nanoscience and Engineering (CENSE) - Prof. M M Nayak](http://www.cense.iisc.ac.in/m-m-nayak)
