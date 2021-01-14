@@ -25,10 +25,10 @@
 #### **Surgical Tool Characterization and Surgeon Skill Assessment from Neurosurgical Videos**
 
 [*Surgical and Assistive Robotics Lab IIIT-Bangalore*](https://www.iiitb.ac.in/sarl/sarl.html)
-
-* Training and evaluation of object detection networks for surgical tool detection, followed by bounding box matching and interpolation to improve frame-wise tool detection in videos. A surgical procedure is characterized by tool on-off time, usage time, and tool trajectory.
-* A Neurosurgical video dataset for the project was collected in collaboration with NIMHANS, Bengaluru.
-
+* Detection of surgical tools in videos of neurosurgical procedures using CNN-based object detection networks. Four commonly used tools were considered: Suction, Cusa, Bipolar and Dissection Forceps.
+* Improved the frame-wise tool detection performance in videos using bounding-box matching and interpolation techniques to identify undetected tools in intermeditate frames and also correct false detections.
+* Characterized the tools based on their on-off time/frequency, total usage time and motion trajectory in the surgical procedure. These characterizations are an important indicator of surgical skill.
+* The project was undertaken in collaboration with the National Institute of Mental Health and Neuro-sciences, Bengaluru. A technical paper of the project is under preparation.
 
 #### **Tactile Audio Gallery**
 
