@@ -10,6 +10,8 @@
 * Achieved significant improvement in detection performance by creating an ensemble of networks which are merged at the NMS step. I also applied various data-preprocessing techniques including blur image rejection, low light image enhancement and extensive data augmentation to boost performance on the real-world dataset. 
 * Integrated a segmentation pipeline using graph-cut to segment the parts of food on a plate post object detection.
 * A technical paper of the project is under preparation. 
+
+
 ### Summer Internship 2019 - Indian Institute of Science (IISc)
 #### Laser Communication and Vibrometer Systems
 [Centre for Nanoscience and Engineering (CENSE) - Prof. M M Nayak](http://www.cense.iisc.ac.in/m-m-nayak)
