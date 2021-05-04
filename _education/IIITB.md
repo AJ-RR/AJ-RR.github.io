@@ -5,7 +5,7 @@ to:    Present
 ---
 
 Integrated Master of Technology in Electronics and Communication Engineering and working towards a specialization in Machine Learning.<br>
-CGPA over 8 semesters - 3.51 / 4.0 - <a target="_blank" rel="noopener noreferrer" href="{{site.url}}{{site.baseurl}}/assets/pdf/transcript.pdf">Transcript</a>
+CGPA over 7 semesters - 3.51 / 4.0 - <a target="_blank" rel="noopener noreferrer" href="{{site.url}}{{site.baseurl}}/assets/pdf/transcript.pdf">Transcript</a>
 
 <h1><b>Course Work</b></h1>
 
