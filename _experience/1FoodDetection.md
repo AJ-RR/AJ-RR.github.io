@@ -13,5 +13,5 @@ link:
 merged at the NMS step. I also applied various data-preprocessing techniques including blur image rejection,
 low light image enhancement and extensive data augmentation to boost performance on the real-world dataset.</li>
 <li>Integrated a segmentation pipeline using graph-cut to segment the parts of food on a plate post object detection.</li>
-<li>A full contributed paper has been submitted to IEEE EMBC 2021.</li>
+<li>A full conference paper has been submitted.</li>
 </ul>

@@ -14,5 +14,5 @@ Four commonly used tools were considered: Suction, Cusa, Bipolar and Dissection 
 techniques to identify undetected tools in intermeditate frames and also correct false detections.</li>
 <li>Characterized the tools based on their on-off time/frequency, total usage time and motion trajectory in the
 surgical procedure. These characterizations are an important indicator of surgical skill.</li>
-<li>A technical paper of the project has been submitted to IEEE EMBC 2021.</li>
+<li>A full conference paper has been submitted.</li>
 </ul>
