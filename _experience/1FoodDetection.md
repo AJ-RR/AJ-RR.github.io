@@ -8,7 +8,7 @@ report:
 link:
 ---
 <ul>
-<li>Detection of Food objects from egocentric wearable camera images using the YOLO object detection networks.</li>
+<li>Detection of Food objects from egocentric wearable camera images using the YOLO object detection networks to aid in automatic food intake monitoring.</li>
 <li>Achieved significant improvement in detection performance by creating an ensemble of networks which are
 merged at the NMS step. I also applied various data-preprocessing techniques including blur image rejection,
 low light image enhancement and extensive data augmentation to boost performance on the real-world dataset.</li>
