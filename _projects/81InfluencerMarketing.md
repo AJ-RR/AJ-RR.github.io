@@ -1,6 +1,6 @@
 ---
 title: Modeling Influencer Marketing Campaigns In Social Networks
-role: [<a href="https://www.iiitb.ac.in/faculty/shrisha-rao">Prof. Shrisha Rao</a>]
+role: Under the supervision of [<a href="https://www.iiitb.ac.in/faculty/shrisha-rao">Prof. Shrisha Rao</a>]
 from: Aug 2020
 to: Dec 2020
 code: 
