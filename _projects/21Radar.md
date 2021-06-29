@@ -1,5 +1,5 @@
 ---
-title: Cognitive Radar: A Literature Review
+title: Cognitive Radar - A Literature Review
 role: Radar Processing Course [<a href="https://www.iiitb.ac.in/faculty/vinod-veera-reddy">Prof. Vinod V. Reddy</a>]
 from: March 2021
 to: May 2021
