@@ -20,3 +20,7 @@ Computer Architecture • Data Structures and Algorithms • Computer Programmin
 
 <h4>Humanities and Social Sciences</h4>
 Technology Ethics and Artificial Intelligence • Digital Sociology • History of Ideas 
+
+<h1><b>Test Scores</b></h1>
+* <b>TOEFL iBT: 110/120</b>; R - 30, L - 30, S - 24, W - 26.
+* <b>GRE: 332/340</b>; Q - 169/170, V - 163/170, (awaiting AWA score) 
