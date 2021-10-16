@@ -1,6 +1,6 @@
 ---
-title: Summer Internship - Laser Communication and Vibrometer System
-role: The Indian Institute of Science (IISc) [<a href="http://www.cense.iisc.ac.in/m-m-nayak">Prof. M M Nayak</a>]
+title: The Indian Institute of Science Bangalore (IISc) 
+role: Summer Internship - Laser Communication and Vibrometer System, under [<a href="http://www.cense.iisc.ac.in/m-m-nayak">Prof. M M Nayak</a>]
 from: May 2019
 to: Jul 2019
 code:
