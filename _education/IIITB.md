@@ -5,7 +5,7 @@ to:    Jun 2022
 ---
 
 Integrated Master of Technology in Electronics and Communication Engineerin<br>
-CGPA over 8 semesters - 3.54 / 4.0 - <a target="_blank" rel="noopener noreferrer" href="{{site.url}}{{site.baseurl}}/assets/pdf/transcript.pdf">Transcript</a>
+CGPA over 8 semesters - 3.59 / 4.0 - <a target="_blank" rel="noopener noreferrer" href="{{site.url}}{{site.baseurl}}/assets/pdf/transcript.pdf">Transcript</a>
 
 <h1><b>Course Work</b></h1>
 
