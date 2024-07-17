@@ -5,10 +5,9 @@ permalink: /projects/
 ---
 
 I have worked on several projects that span the following domains:
-1. <a href="#Microsurgical Tool Detection and Characterization in Intra-operative Neurosurgical Videos">Computer Vision</a>
+1. <a href="#Malaria Parasite Detection in Thin Blood Smear Images">Computer Vision</a>
 2. <a href="#Speech Dialect Classification">Machine Learning and Signal Processing</a>
-4. <a href = "#Modeling Influencer Marketing Campaigns In Social Networks">Computer Programming</a>
-3. <a href="#Tactile Educational Kit for Students with Visual Impairment">Electronics and Embedded Systems</a>
+3. <a href="#Cognitive Radar - A Literature Review">Electronics and Embedded Systems</a>
 4. <a href="#Motor Control Brain Implants - Design Considerations">Humanities and Social Sciences</a>
 
 {% for project in site.projects %}
