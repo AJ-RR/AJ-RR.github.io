@@ -1,6 +1,6 @@
 ---
 title: International Institute of Information Technology Bangalore  
-role: Undergraduate Research - Surgical Tool Detection and Characterization, under [<a href="https://www.iiitb.ac.in/faculty/madhav-rao">Prof. Madhav Rao</a>]
+role: Undergraduate Research - Surgical Tool Detection and Characterization, under <a href="https://www.iiitb.ac.in/faculty/madhav-rao">Prof. Madhav Rao</a>
 from: Aug 2020
 to: Feb 2021
 code:

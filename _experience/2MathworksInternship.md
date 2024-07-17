@@ -1,5 +1,5 @@
 ---
-title: The MathWorks, Inc 
+title: MathWorks 
 role: Intern in the Engineering Development Group
 from: Jan 2022
 to: Jun 2022
