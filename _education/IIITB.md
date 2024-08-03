@@ -25,5 +25,5 @@ Linear Algebra • Convex Optimization • Probability and Statistics • Calcul
 Technology Ethics and Artificial Intelligence • Digital Sociology • History of Ideas 
 
 <h1><b>Test Scores</b></h1>
-* <b>TOEFL iBT: 110/120</b>; R - 30, L - 30, S - 24, W - 26.
+* <b>TOEFL iBT: 112/120</b>; R - 30, L - 28, S - 27, W - 27.
 * <b>GRE: 332/340</b>; Q - 169/170, V - 163/170, AWA - 4/6 
