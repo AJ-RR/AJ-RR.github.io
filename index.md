@@ -6,9 +6,8 @@ layout: home
 title: About
 ---
 
-I am currently an Embedded Software Engineer at the MathWorks Inc. I have completed a Bachelor's/Master's Dual degree in Electronics and Communication Engineering at the <a target="_blank" rel="noopener noreferrer" href="https://www.iiitb.ac.in/">International Institute of Information Technology - Bangalore (IIIT-B)</a>.
+I am an incoming Master's student (fall 2024) at the University of California San Diego, majoring in Computer Engineering. I am mainly interested in embedded systems. Before joing UCSD, I was a Software Engineer at MathWorks where I developed software for code generation and simulation of multicore embedded systems.
 
-I am also interested in research, especially in areas of machine learning for healthcare and assistive technology. With a background in electronics and embedded systems, I am eager to work on multi-disciplinary problems in these fields.
+I am also interested in research, especially in embedded systems with applications in machine learning for healthcare and assistive technology. With a background in electronics, embedded software and AI, I am eager to work on multi-disciplinary problems in these fields.
 
 Academics aside, I am a football enthusiast and regularly play the sport. I also enjoy playing table tennis. In addition, I have a deep interest in philosophy, particularly in aspects of ethics and morality that are crucial in understanding what engineers do and how our technology affects society.
- 
